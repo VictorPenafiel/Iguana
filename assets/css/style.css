@@ -1,0 +1,152 @@
+body {
+	margin: 0;
+	border: 0;
+	font-family: Raleway, sans-serif;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	color: #ffffff;
+}
+
+p {
+	color: #ffffff;
+}
+
+
+.titulo {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+.nombre {
+    font-size: 50px;
+	font-weight: 500;
+	color: #ffffff;
+	margin: 0;
+	padding:  0;
+	text-align: center;
+}
+
+.portada {
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+    background: transparent url('img/photo-1516008805996-d2abb468cc9a.png') 0% 0% no-repeat padding-box;
+    opacity: 1;  
+}
+
+/*seccion nueva*/
+
+.descripcion {
+    background-color: #000000;
+	margin: 0;
+	padding: 45px 0;
+}
+
+.biografia {
+    width: 80%;
+	margin: 0 auto;
+}
+
+.texto {
+    width: 60%;
+	display: inline-block;
+	padding-right: 20px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.foto1 {
+    display: inline-block;
+	width: 30%;	
+	vertical-align: middle;
+
+}
+
+.foto1 img {
+	width: 100%;
+
+}
+
+
+
+/*seccion CARACTERISTICAS*/
+
+.icons-section {
+	background-color: #1E1A13;
+	text-align: center;
+	padding: 50px;
+}
+
+.icons-section h2 {
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+.icons {
+	display: inline-block;
+	width: 30%;
+}
+.icons p {
+	font-size: 25px;
+	font-weight: 300;
+}
+
+
+.ojo {
+
+    top: 1333px;
+    left: 326px;
+    width: 57px;
+    height: 37px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1; 
+}
+
+
+
+
+/*imagenes*/
+
+
+.carrusel {
+	text-align: center;
+	padding: 75px 0;
+}
+
+.image {
+	display: inline-block;
+	width: 30%;
+	vertical-align: middle;
+}
+
+.image img {
+	width: 90%;
+}
+
+/* pie de pagina*/
+
+footer {
+	background-color: #1E1A13;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #ffffff;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+}
